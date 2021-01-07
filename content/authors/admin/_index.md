@@ -1,26 +1,27 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: David Lara
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Estudiante Mecatrónico
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: ESPOL
+  url: https://www.espol.edu.ec/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Mis intereses están en aplicaciones de inteligencia artificial en sistemas embebidos y su programación.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Inteligencia Artificial
+- Sistemas embebidos
+- Programación
+
 
 # Education to show in About widget
 education:
@@ -70,8 +71,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Soy estudiante de mecatrónica aplicando e investigando aplicaciones de inteligencia artificial, me gusta la programación de sistemas embebidos y estoy trabajando en este sitio web para publicar varios temas de interés que pueden ser guías, tutoriales, trucos, conocimientos, etc.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Descarga mi {{< staticref "media/demo_resume.pdf" "newtab" >}}hoja de vida{{< /staticref >}}.
